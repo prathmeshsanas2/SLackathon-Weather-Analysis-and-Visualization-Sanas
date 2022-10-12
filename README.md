@@ -18,8 +18,7 @@ Ever wondered how the news channels predict weather conditions accurately? It’
 
 ### What's the problem?
 
-Optimize Supply Chain Inventory
-Super Effectively manage and optimize inventory by capturing variables such as lead times, manufac- turing frequency, batch size, and ordering policies from across the supply chain. Using algo- rithms, exception-based forecasts, and real-time downstream demand signals, suggest and adjust inventories to optimal levels. Maintain the right amount of inventory required to meet demand, keep logistics costs low, and avoid common inventory issues such as stockouts, over- stocking, and backorders.
+Agriculture or farming is the practice of cultivating plants and livestock. Agriculture was the key development in the rise of sedentary human civilization, whereby farming of domesticated species created food surpluses that enabled people to live in cities.Modern agronomy, plant breeding, agrochemicals such as pesticides and fertilizers, and technological developments have sharply increased crop yields, but cause ecological and environmental damage.In agriculture, the farmers have putted fertilisers but due to heavy rains it gets washed away.So the farmers dont know the exact time period to apply fertilizers. They are not able to predict the rainfall or weather condition for next 6-7 days. Due to this at the end, they suffer losses.
 
 ### How can technology help?
 Optimize supply chain inventory - Technology to optimize supply chain inventory and to help quickly choose the best manufacturing plants to optimize inventory and minimize cost.
