@@ -8,7 +8,6 @@ Ever wondered how the news channels predict weather conditions accurately? It’
     - [What's the problem?](#whats-the-problem)
     - [How can technology help?](#how-can-technology-help)
     - [The idea](#the-idea)
-  - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
   - [Long description](#long-description)
   - [Project roadmap](#project-roadmap)
