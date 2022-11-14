@@ -36,3 +36,34 @@ Future trends- We can see a specific app for farmers where which crops we can gr
 
 ## Long description
 
+# Submission name- Weather data Analysis and Visualization 
+
+Agriculture or farming is the practice of cultivating plants and livestock. Agriculture was the key development in the rise of sedentary human civilization, whereby farming of domesticated species created food surpluses that enabled people to live in cities.Agriculture is one of the sectors most dependent on weather conditions, being its output strongly aﬀectedby them. The eﬀect of abnormal weather conditions on fertilizer application is far from easily predictable. Our focus encompasses both the immediate response to dryness and wetness conditions and, particularly, the lagged response. In fact, from a policy perspective, it is important to understand which are the lasting consequences of these weather phenomena.If a drought or an excess of rain is happening or is foreseen to happen at the time of fertilizer application,the immediate response of a farmer could be to increase the amount of fertilizer to counterbalance the likely output loss caused by the adverse weather conditions or she could opt to reduce it to avoid wasting input expenditures.
+The lagged response, as to say the application of fertilizer in a time period subsequent the happening of a weather shock, seems to be more easily predictable. Since a signiﬁcant departure from expected levels of wetness is associated with a reduction in productivity, this implies a lower nutrients up take by plants. This further causes a lower need of fertilization in the subsequent year1. However, although heavy rains may damage cropsas much as drought, they could also cause a run–oﬀ of fertilizer from the soil, thus nullifying this argument.
+
+The project description is organized as follows. Section 1 provides a brief Introduction and describes the data used. In Section 2 we explain the web-scrapping, Pre-processing method, data cleaning. In Section 3 we provide the visualizations and discuss the results. Finally, Section 4 concludes/results
+
+
+## Section 1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia nisi ut fringilla sodales. Etiam elementum a arcu vel fringilla. Nulla ac efficitur felis. In a nisi bibendum, efficitur felis vel, consectetur quam. Aenean ornare justo velit, sed malesuada massa efficitur ut. Sed non augue vel risus tempus lacinia ac nec est. Nunc vel finibus felis. Vivamus felis diam, porta sed rhoncus eu, luctus eget justo. 
+
+### Subsection 1.1
+
+Mauris odio ante, rhoncus et varius vel, vulputate et enim. Aliquam erat volutpat. Proin lacinia libero velit, a dictum sapien ultricies quis. Vivamus dolor nibh, efficitur in ipsum vitae, faucibus eleifend felis.
+
+### Subsection 1.2
+
+Nullam nec lectus massa. Proin feugiat placerat nisi lacinia lobortis. Duis efficitur ac orci ac lobortis.
+
+## Conclusion
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia nisi ut fringilla sodales. Etiam elementum a arcu vel fringilla. Nulla ac efficitur felis. In a nisi bibendum, efficitur felis vel, consectetur quam. Aenean ornare justo velit, sed malesuada massa efficitur ut. Sed non augue vel risus tempus lacinia ac nec est. Nunc vel finibus felis. Vivamus felis diam, porta sed rhoncus eu, luctus eget justo. 
+
+### Results
+
+Nullam nec lectus massa. Proin feugiat placerat nisi lacinia lobortis. Duis efficitur ac orci ac lobortis.
+
+## Acknowledgments
+
+Nullam nec lectus massa. Proin feugiat placerat nisi lacinia lobortis. Duis efficitur ac orci ac lobortis
