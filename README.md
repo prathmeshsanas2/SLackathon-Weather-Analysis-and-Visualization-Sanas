@@ -113,7 +113,7 @@ Plots shows the on particular day, How much is the precipitation level.
 
 ### Subsection 3.4- Temperature effects
 
-
+Sometimes Higher the temperature cause burn out the crops and also affects on the fertilizers. So the spreding the fertilizers on specific temperature where it is suitable for crops needed.
 
 ## Conclusion
 
