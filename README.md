@@ -29,3 +29,10 @@ The idea is like, get the historical weather data and from that data predict the
 Rightnow for fertilization, farmers  get the specific timeperiod where it is good to spreadout or wait for somedays or too much risky. They will get the indications that when they can use the ferlizers. 
 
 Future trends- We can see a specific app for farmers where which crops we can grow for that specific time period using weather condition.
+
+## The architecture
+
+![image](https://user-images.githubusercontent.com/80089677/201652007-0b61acbd-6dae-4406-b337-1d5428c17a71.png)
+
+## Long description
+
