@@ -44,17 +44,37 @@ The lagged response, as to say the application of fertilizer in a time period su
 The project description is organized as follows. Section 1 provides a brief Introduction and describes the data used. In Section 2 we explain the web-scrapping, Pre-processing method, data cleaning. In Section 3 we provide the visualizations and discuss the results. Finally, Section 4 concludes/results
 
 
-## Section 1
+## Section 1- Brief Introduction and describes the data
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia nisi ut fringilla sodales. Etiam elementum a arcu vel fringilla. Nulla ac efficitur felis. In a nisi bibendum, efficitur felis vel, consectetur quam. Aenean ornare justo velit, sed malesuada massa efficitur ut. Sed non augue vel risus tempus lacinia ac nec est. Nunc vel finibus felis. Vivamus felis diam, porta sed rhoncus eu, luctus eget justo. 
+In this Section we brieﬂy introduce a description of the data used in our analysis. The dependent variable which affects the fertilizer has been taken out. In data"s parameters like temperature, cloud cover, sunshine, global radiation, snow depth, precipitation are being used. 
 
-### Subsection 1.1
 
-Mauris odio ante, rhoncus et varius vel, vulputate et enim. Aliquam erat volutpat. Proin lacinia libero velit, a dictum sapien ultricies quis. Vivamus dolor nibh, efficitur in ipsum vitae, faucibus eleifend felis.
+### Subsection 1.1- Context
 
-### Subsection 1.2
+The dataset featured below was created by reconciling measurements from requests of individual weather attributes provided by the European Climate Assessment (ECA).
 
-Nullam nec lectus massa. Proin feugiat placerat nisi lacinia lobortis. Duis efficitur ac orci ac lobortis.
+### Subsection 1.2- Content
+
+The list of attributes and their description summaries:
+
+date - recorded date of measurement - (int)
+cloud_cover - cloud cover measurement in oktas - (float)
+sunshine - sunshine measurement in hours (hrs) - (float)
+global_radiation - irradiance measurement in Watt per square meter (W/m2) - (float)
+max_temp - maximum temperature recorded in degrees Celsius (°C) - (float)
+mean_temp - mean temperature in degrees Celsius (°C) - (float)
+min_temp - minimum temperature recorded in degrees Celsius (°C) - (float)
+precipitation - precipitation measurement in millimeters (mm) - (float)
+pressure - pressure measurement in Pascals (Pa) - (float)
+snow_depth - snow depth measurement in centimeters (cm) - (float)
+
+### Subsection 1.3- Source
+
+Weather Data - https://www.ecad.eu/dailydata/index.php
+
+## Section 2- Web scrapping and pre-processing
+
+
 
 ## Conclusion
 
