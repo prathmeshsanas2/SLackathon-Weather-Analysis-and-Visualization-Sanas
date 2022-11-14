@@ -57,16 +57,16 @@ The dataset featured below was created by reconciling measurements from requests
 
 The list of attributes and their description summaries:
 
-date - recorded date of measurement - (int)
-cloud_cover - cloud cover measurement in oktas - (float)
-sunshine - sunshine measurement in hours (hrs) - (float)
-global_radiation - irradiance measurement in Watt per square meter (W/m2) - (float)
-max_temp - maximum temperature recorded in degrees Celsius (°C) - (float)
-mean_temp - mean temperature in degrees Celsius (°C) - (float)
-min_temp - minimum temperature recorded in degrees Celsius (°C) - (float)
-precipitation - precipitation measurement in millimeters (mm) - (float)
-pressure - pressure measurement in Pascals (Pa) - (float)
-snow_depth - snow depth measurement in centimeters (cm) - (float)
+1) date - recorded date of measurement - (int)
+2) cloud_cover - cloud cover measurement in oktas - (float)
+3) sunshine - sunshine measurement in hours (hrs) - (float)
+4) global_radiation - irradiance measurement in Watt per square meter (W/m2) - (float)
+5) max_temp - maximum temperature recorded in degrees Celsius (°C) - (float)
+6) mean_temp - mean temperature in degrees Celsius (°C) - (float)
+7) min_temp - minimum temperature recorded in degrees Celsius (°C) - (float)
+8) precipitation - precipitation measurement in millimeters (mm) - (float)
+9) pressure - pressure measurement in Pascals (Pa) - (float)
+10) snow_depth - snow depth measurement in centimeters (cm) - (float)
 
 ### Subsection 1.3- Source
 
@@ -74,7 +74,45 @@ Weather Data - https://www.ecad.eu/dailydata/index.php
 
 ## Section 2- Web scrapping and pre-processing
 
-Firstly fetch the required contents form the  https://www.ecad.eu/dailydata/index.php. As 
+Firstly fetch the required contents form the  https://www.ecad.eu/dailydata/index.php. Data has taken out from 2000 to 2020 years. And data gets pre-processed by several methods. 
+Pre-processing Method shown below-
+1) Data cleaning- removing unwanted materials.
+2) Null values- Filling missing values by manually or by mean or by most probable value.
+3) Correcting the features.
+
+## Section 3- Visualization and plots
+
+After completing the pre-processing, performed the several comparisons and plots.
+
+### Subsection 3.1- Cloud cover plots
+
+Cloud cover is an important component of understanding and predicting the weather. Not only does cloud cover impact sky conditions and inform precipitation predictions, it also helps regulate the temperature that occurs in a region.Cloud cover may also influence temperatures at the surface of the planet.The amount of clouds in the sky or the degree of cloud cover. This is one of the main weather parameters, which is also called cloud amount, cloudiness, cloudage, or cloud coverage. 
+
+Today in modern meteorology it is expressed mainly as a percentage. For example, if the sky is 100% covered by clouds, it is a totally cloudy day. If the cloud cover is 25% — the day is more clear than cloudy. The cloud cover of 0% means it is a clear day with no visible clouds at all. So it is also called the percentage of the cloud coverage of the sky.
+
+Cloud cover is one of the parameters which has impact on fertilizer. So to check the cloud cover condition, It gets classified into mostly cloudy, partly cloudy, Obstract view, Barely view. By plotting the graphs, we can easily know that - for a perticulaar day How is the cloud cover status.
+Mostly Obstract view means where the cloud cover is more or equal to 9 oktas is riksy period for spreding the fertilizers. Because In obstract view cloud cover indicator '9' indicating that the sky is totally obscured (i.e. hidden from view), usually due to dense fog or heavy snow.
+
+### Subsection 3.2- Snow depth plots
+
+As simple, whereever the snow falls it affects the fertilizer. So it is important to check the snow fall condition. If snow fall shows the 0 means it is good to go ahead for to spread out fertilizers.
+Plots shows the mean temp. vs days plot where on which day how's the condition of snow fall. Wheather it is good or it is parshaly good or risky.
+
+### Subsection 3.3- Precipitation level plots
+
+Precipitation include drizzle, rain, sleet, snow, ice pellets, graupel and hail. Precipitation occurs when a portion of the atmosphere becomes saturated with water vapor (reaching 100% relative humidity), so that the water condenses and "precipitates" or falls.
+Rainfall intensity is classified according to the rate of precipitation, which depends on the considered time.The following categories are used to classify rainfall intensity:
+1) Light rain — when the precipitation rate is < 2.5 mm (0.098 in) per hour
+2) Moderate rain — when the precipitation rate is between 2.5 mm (0.098 in) – 7.6 mm (0.30 in) or 10 mm (0.39 in) per hour.
+3) Heavy rain — when the precipitation rate is > 7.6 mm (0.30 in) per hour, or between 10 mm (0.39 in) and 50 mm (2.0 in) per hour.
+4) Violent rain — when the precipitation rate is > 50 mm (2.0 in) per hour.
+
+So by checking the precipitation level, we can easily known the the rainfall condition. So to checking the rainfall condition we can predict the wheather it is good to go ahaed for spreading fertilizers or not.
+
+Plots shows the on particular day, How much is the precipitation level.
+
+### Subsection 3.4- Temperature effects
+
 
 
 ## Conclusion
