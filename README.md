@@ -10,8 +10,8 @@ Ever wondered how the news channels predict weather conditions accurately? It’
     - [The idea](#the-idea)
   - [The architecture](#the-architecture)
   - [Long description](#long-description)
-  - [Project roadmap](#project-roadmap)
-  - [Live demo](#live-demo)
+  - [Conclusion] (#conclusion)
+  - [Acknowledgments / Reference Links] (#Acknowledgments / Reference Links)
 
 ## Short description
 
