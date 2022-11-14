@@ -74,6 +74,7 @@ Weather Data - https://www.ecad.eu/dailydata/index.php
 
 ## Section 2- Web scrapping and pre-processing
 
+Firstly fetch the required contents form the  https://www.ecad.eu/dailydata/index.php. As 
 
 
 ## Conclusion
