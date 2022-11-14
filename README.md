@@ -115,14 +115,17 @@ Plots shows the on particular day, How much is the precipitation level.
 
 Sometimes Higher the temperature cause burn out the crops and also affects on the fertilizers. So the spreding the fertilizers on specific temperature where it is suitable for crops needed.
 
+Plots shows the Temperature level on particular day wheather it is suitable or not.
+
 ## Conclusion
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia nisi ut fringilla sodales. Etiam elementum a arcu vel fringilla. Nulla ac efficitur felis. In a nisi bibendum, efficitur felis vel, consectetur quam. Aenean ornare justo velit, sed malesuada massa efficitur ut. Sed non augue vel risus tempus lacinia ac nec est. Nunc vel finibus felis. Vivamus felis diam, porta sed rhoncus eu, luctus eget justo. 
+Plotting the graphs of cloud cover, temperature effect, precipitation level, snow depth plot we can get to know that when we can spread out the fertilizers.
+We can also predict the rainfall, climate condition and take steps accordingly.
 
-### Results
 
-Nullam nec lectus massa. Proin feugiat placerat nisi lacinia lobortis. Duis efficitur ac orci ac lobortis.
+## Acknowledgments / Reference Links
 
-## Acknowledgments
-
-Nullam nec lectus massa. Proin feugiat placerat nisi lacinia lobortis. Duis efficitur ac orci ac lobortis
+1) https://levelup.gitconnected.com/weather-data-analysis-and-visualization-with-pandas-dec9c6078065
+2) https://www.researchgate.net/publication/348874159_The_Effect_of_Weather_Conditions_on_Fertilizer_Applications_A_Spatial_Dynamic_Panel_Data_Analysis
+3) https://www.researchgate.net/publication/262012705_Variability_of_snow_depth_at_the_plot_scale_Implications_for_mean_depth_estimation_and_sampling_strategies
+4) https://www.ecad.eu/dailydata/index.php
